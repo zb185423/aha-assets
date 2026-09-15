@@ -1,3 +1,23 @@
+"""
+【概要】
+assets/ ディレクトリ配下の画像ファイルを走査し、GitHub Pages配信用の
+questions.json を自動生成・更新します。
+
+【主な機能と挙動】
+1. 画像ファイルの自動検出:
+   - assets/ 配下を再帰的に検索し、bef / aft / ans が揃っているディレクトリを問題として認識します。
+   - ファイル名の表記ブレ（例: q001_bef.jpg, 004_bef.jpg など）に対応しています。
+
+2. データ構造と判定規則:
+   - ディレクトリ構造からIDを生成します（例: assets/premium/001/001 -> premium_001_001）。
+   - パスが 'free' で始まる場合は is_premium: False。
+   - パスが 'premium' で始まる場合は is_premium: True とし、パックID（premium_id）を付与します。
+
+3. 差分タイムスタンプ管理 (JST: 日本標準時):
+   - 既存の questions.json を読み込み、すでに存在する問題の updated_at は保持（上書き防止）します。
+   - 新規追加された問題のみ、実行時の現在時刻（JST: +09:00）を updated_at として設定します。
+"""
+
 import json
 import os
 from pathlib import Path
@@ -85,9 +105,9 @@ def generate_questions_json(root_dir="assets"):
 
     questions.sort(key=lambda x: x["id"])
 
-    output_data = {"updated_at": now_str, "questions": questions}
+    # output_data = {"updated_at": now_str, "questions": questions}
 
-    return output_data
+    return questions
 
 
 if __name__ == "__main__":
@@ -96,4 +116,4 @@ if __name__ == "__main__":
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
-    print(f"Successfully updated {JSON_PATH} ({len(result['questions'])} items)")
+    print(f"Successfully updated {JSON_PATH} ({len(result)} items)")
