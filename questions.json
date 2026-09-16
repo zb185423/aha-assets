@@ -21,5 +21,57 @@
       }
     ],
     "updated_at": "2026-09-16T18:40:48+09:00"
+  },
+  {
+    "id": "free_002",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/free/002/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/free/002/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/free/002/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": false,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 764,
+        "y0": 610,
+        "x1": 927,
+        "y1": 743
+      }
+    ],
+    "updated_at": "2026-09-16T21:12:09+09:00"
+  },
+  {
+    "id": "free_003",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/free/003/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/free/003/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/free/003/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": false,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 547,
+        "y0": 293,
+        "x1": 674,
+        "y1": 413
+      },
+      {
+        "x0": 942,
+        "y0": 249,
+        "x1": 1092,
+        "y1": 419
+      }
+    ],
+    "updated_at": "2026-09-16T21:12:09+09:00"
   }
 ]
