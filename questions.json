@@ -73,5 +73,149 @@
       }
     ],
     "updated_at": "2026-09-16T21:12:09+09:00"
+  },
+  {
+    "id": "premium_001_001",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 226,
+        "y0": 440,
+        "x1": 345,
+        "y1": 632
+      }
+    ],
+    "updated_at": "2026-09-16T21:39:05+09:00",
+    "premium_id": "001"
+  },
+  {
+    "id": "premium_001_002",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 604,
+        "y0": 624,
+        "x1": 743,
+        "y1": 727
+      }
+    ],
+    "updated_at": "2026-09-16T21:39:05+09:00",
+    "premium_id": "001"
+  },
+  {
+    "id": "premium_001_003",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1056,
+        "y0": 565,
+        "x1": 1211,
+        "y1": 719
+      },
+      {
+        "x0": 247,
+        "y0": 628,
+        "x1": 399,
+        "y1": 783
+      }
+    ],
+    "updated_at": "2026-09-16T21:39:05+09:00",
+    "premium_id": "001"
+  },
+  {
+    "id": "premium_001_004",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 610,
+        "y0": 407,
+        "x1": 737,
+        "y1": 531
+      },
+      {
+        "x0": 278,
+        "y0": 494,
+        "x1": 459,
+        "y1": 605
+      }
+    ],
+    "updated_at": "2026-09-16T21:39:05+09:00",
+    "premium_id": "001"
+  },
+  {
+    "id": "premium_001_005",
+    "title": "",
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/ans.jpg",
+    "difficulty": 3,
+    "change_points_number": 3,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1016,
+        "y0": 204,
+        "x1": 1122,
+        "y1": 321
+      },
+      {
+        "x0": 139,
+        "y0": 452,
+        "x1": 250,
+        "y1": 601
+      },
+      {
+        "x0": 606,
+        "y0": 583,
+        "x1": 709,
+        "y1": 690
+      }
+    ],
+    "updated_at": "2026-09-16T21:39:05+09:00",
+    "premium_id": "001"
   }
 ]
