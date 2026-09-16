@@ -2,9 +2,8 @@ name: Deploy Assets and JSON to GitHub Pages
 
 on:
   push:
-    branches: []
-      # 手動作成のため停止
-      # - main
+    branches: 
+      - main
 
 permissions:
   contents: write
