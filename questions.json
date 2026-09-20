@@ -1,7 +1,11 @@
 [
   {
     "id": "free_001",
-    "title": "気球びより",
+    "title": {
+      "ja": "気球びより",
+      "en": "Balloon Weather",
+      "zh-Hans": "热气球的天空"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/001/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/001/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/free/001/ans.jpg",
@@ -24,7 +28,11 @@
   },
   {
     "id": "free_002",
-    "title": "パラソルの浜辺",
+    "title": {
+      "ja": "パラソルの浜辺",
+      "en": "Parasol Beach",
+      "zh-Hans": "阳伞海滩"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/002/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/002/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/free/002/ans.jpg",
@@ -47,7 +55,11 @@
   },
   {
     "id": "free_003",
-    "title": "風をつかまえて",
+    "title": {
+      "ja": "風をつかまえて",
+      "en": "Catch the Wind",
+      "zh-Hans": "追风的午后"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/003/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/003/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/free/003/ans.jpg",
@@ -76,7 +88,11 @@
   },
   {
     "id": "premium_001_001",
-    "title": "潮風のヨットハーバー",
+    "title": {
+      "ja": "潮風のヨットハーバー",
+      "en": "Sailing Harbor",
+      "zh-Hans": "海风与帆船"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/ans.jpg",
@@ -100,7 +116,11 @@
   },
   {
     "id": "premium_001_002",
-    "title": "雪原のキャンプ",
+    "title": {
+      "ja": "雪原のキャンプ",
+      "en": "Camp on the Snow",
+      "zh-Hans": "雪原露营"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/ans.jpg",
@@ -124,7 +144,11 @@
   },
   {
     "id": "premium_001_003",
-    "title": "空を舞う午後",
+    "title": {
+      "ja": "空を舞う午後",
+      "en": "Afternoon in the Sky",
+      "zh-Hans": "翱翔的午后"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/ans.jpg",
@@ -154,7 +178,11 @@
   },
   {
     "id": "premium_001_004",
-    "title": "雪だるまと遊ぼう",
+    "title": {
+      "ja": "雪だるまと遊ぼう",
+      "en": "Snowman's Playground",
+      "zh-Hans": "和雪人玩耍"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/ans.jpg",
@@ -184,7 +212,11 @@
   },
   {
     "id": "premium_001_005",
-    "title": "風船、空へ",
+    "title": {
+      "ja": "風船、空へ",
+      "en": "Balloons Away",
+      "zh-Hans": "气球升空"
+    },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/ans.jpg",
