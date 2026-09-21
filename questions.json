@@ -2,9 +2,9 @@
   {
     "id": "free_001",
     "title": {
-      "ja": "気球びより",
-      "en": "Balloon Weather",
-      "zh-Hans": "热气球的天空"
+      "ja": "午後のカフェ",
+      "en": "Afternoon Café",
+      "zh-Hans": "午后咖啡馆"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/001/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/001/aft.jpg",
@@ -18,20 +18,20 @@
     ],
     "regions": [
       {
-        "x0": 1139,
-        "y0": 612,
-        "x1": 1296,
-        "y1": 787
+        "x0": 482,
+        "y0": 340,
+        "x1": 743,
+        "y1": 611
       }
     ],
-    "updated_at": "2026-09-16T18:40:48+09:00"
+    "updated_at": "2026-09-21T23:54:42+09:00"
   },
   {
     "id": "free_002",
     "title": {
-      "ja": "パラソルの浜辺",
-      "en": "Parasol Beach",
-      "zh-Hans": "阳伞海滩"
+      "ja": "おもちゃの棚",
+      "en": "Toy Shelf",
+      "zh-Hans": "玩具架"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/002/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/002/aft.jpg",
@@ -46,19 +46,19 @@
     "regions": [
       {
         "x0": 764,
-        "y0": 610,
-        "x1": 927,
-        "y1": 743
+        "y0": 458,
+        "x1": 1063,
+        "y1": 677
       }
     ],
-    "updated_at": "2026-09-16T21:12:09+09:00"
+    "updated_at": "2026-09-21T23:54:42+09:00"
   },
   {
     "id": "free_003",
     "title": {
-      "ja": "風をつかまえて",
-      "en": "Catch the Wind",
-      "zh-Hans": "追风的午后"
+      "ja": "八百屋さんの店先",
+      "en": "Corner Grocer",
+      "zh-Hans": "街角菜摊"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/003/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/003/aft.jpg",
@@ -72,26 +72,26 @@
     ],
     "regions": [
       {
-        "x0": 547,
-        "y0": 293,
-        "x1": 674,
-        "y1": 413
+        "x0": 1078,
+        "y0": 239,
+        "x1": 1319,
+        "y1": 517
       },
       {
-        "x0": 942,
-        "y0": 249,
-        "x1": 1092,
-        "y1": 419
+        "x0": 76,
+        "y0": 971,
+        "x1": 329,
+        "y1": 1215
       }
     ],
-    "updated_at": "2026-09-16T21:12:09+09:00"
+    "updated_at": "2026-09-21T23:54:42+09:00"
   },
   {
     "id": "premium_001_001",
     "title": {
-      "ja": "潮風のヨットハーバー",
-      "en": "Sailing Harbor",
-      "zh-Hans": "海风与帆船"
+      "ja": "ただいまの玄関",
+      "en": "Welcome Home",
+      "zh-Hans": "回家的玄关"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/aft.jpg",
@@ -105,21 +105,21 @@
     ],
     "regions": [
       {
-        "x0": 226,
-        "y0": 440,
-        "x1": 345,
-        "y1": 632
+        "x0": 709,
+        "y0": 251,
+        "x1": 1031,
+        "y1": 481
       }
     ],
-    "updated_at": "2026-09-16T21:39:05+09:00",
+    "updated_at": "2026-09-21T23:54:42+09:00",
     "premium_id": "001"
   },
   {
     "id": "premium_001_002",
     "title": {
-      "ja": "雪原のキャンプ",
-      "en": "Camp on the Snow",
-      "zh-Hans": "雪原露营"
+      "ja": "本棚のすみっこ",
+      "en": "Bookshelf Corner",
+      "zh-Hans": "书架一角"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/002/aft.jpg",
@@ -133,21 +133,21 @@
     ],
     "regions": [
       {
-        "x0": 604,
-        "y0": 624,
-        "x1": 743,
-        "y1": 727
+        "x0": 366,
+        "y0": 83,
+        "x1": 593,
+        "y1": 354
       }
     ],
-    "updated_at": "2026-09-16T21:39:05+09:00",
+    "updated_at": "2026-09-21T23:54:42+09:00",
     "premium_id": "001"
   },
   {
     "id": "premium_001_003",
     "title": {
-      "ja": "空を舞う午後",
-      "en": "Afternoon in the Sky",
-      "zh-Hans": "翱翔的午后"
+      "ja": "朝のキッチン",
+      "en": "Morning Kitchen",
+      "zh-Hans": "清晨厨房"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/003/aft.jpg",
@@ -161,27 +161,27 @@
     ],
     "regions": [
       {
-        "x0": 1056,
-        "y0": 565,
-        "x1": 1211,
-        "y1": 719
+        "x0": 543,
+        "y0": 319,
+        "x1": 727,
+        "y1": 717
       },
       {
-        "x0": 247,
-        "y0": 628,
-        "x1": 399,
-        "y1": 783
+        "x0": 803,
+        "y0": 868,
+        "x1": 1052,
+        "y1": 1090
       }
     ],
-    "updated_at": "2026-09-16T21:39:05+09:00",
+    "updated_at": "2026-09-21T23:54:42+09:00",
     "premium_id": "001"
   },
   {
     "id": "premium_001_004",
     "title": {
-      "ja": "雪だるまと遊ぼう",
-      "en": "Snowman's Playground",
-      "zh-Hans": "和雪人玩耍"
+      "ja": "木かげのベンチ",
+      "en": "Bench in the Shade",
+      "zh-Hans": "树荫下的长椅"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/004/aft.jpg",
@@ -195,27 +195,27 @@
     ],
     "regions": [
       {
-        "x0": 610,
-        "y0": 407,
-        "x1": 737,
-        "y1": 531
+        "x0": 401,
+        "y0": 740,
+        "x1": 709,
+        "y1": 928
       },
       {
-        "x0": 278,
-        "y0": 494,
-        "x1": 459,
-        "y1": 605
+        "x0": 1087,
+        "y0": 878,
+        "x1": 1319,
+        "y1": 1167
       }
     ],
-    "updated_at": "2026-09-16T21:39:05+09:00",
+    "updated_at": "2026-09-21T23:54:42+09:00",
     "premium_id": "001"
   },
   {
     "id": "premium_001_005",
     "title": {
-      "ja": "風船、空へ",
-      "en": "Balloons Away",
-      "zh-Hans": "气球升空"
+      "ja": "手芸のじかん",
+      "en": "Crafting Time",
+      "zh-Hans": "手工时光"
     },
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/005/aft.jpg",
@@ -229,25 +229,25 @@
     ],
     "regions": [
       {
-        "x0": 1016,
-        "y0": 204,
-        "x1": 1122,
-        "y1": 321
+        "x0": 194,
+        "y0": 415,
+        "x1": 533,
+        "y1": 777
       },
       {
-        "x0": 139,
-        "y0": 452,
-        "x1": 250,
-        "y1": 601
+        "x0": 801,
+        "y0": 608,
+        "x1": 963,
+        "y1": 799
       },
       {
-        "x0": 606,
-        "y0": 583,
-        "x1": 709,
-        "y1": 690
+        "x0": 827,
+        "y0": 1098,
+        "x1": 1017,
+        "y1": 1297
       }
     ],
-    "updated_at": "2026-09-16T21:39:05+09:00",
+    "updated_at": "2026-09-21T23:54:42+09:00",
     "premium_id": "001"
   }
 ]
