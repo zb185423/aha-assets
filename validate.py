@@ -4,13 +4,15 @@ import re
 from urllib.parse import urlparse
 
 
+TITLE_LANGS = ("ja", "en", "zh-Hans")
+
+
 def validate_item(item: dict, index: int) -> list[str]:
     errors = []
 
     # 1. 必須フィールドおよび型チェック
     required_keys = {
         "id": str,
-        "title": str,
         "base_url": str,
         "changed_url": str,
         "answer_url": str,
@@ -29,6 +31,19 @@ def validate_item(item: dict, index: int) -> list[str]:
             errors.append(
                 f"'{key}' の型が不正です (期待: {expected_type.__name__}, 実際: {type(item[key]).__name__})"
             )
+
+    # title は言語コードをキーにしたオブジェクト（ja / en / zh-Hans）
+    if "title" not in item:
+        errors.append("キー 'title' が存在しません。")
+    elif not isinstance(item["title"], dict):
+        errors.append(
+            f"'title' の型が不正です (期待: dict, 実際: {type(item['title']).__name__})"
+        )
+    else:
+        for lang in TITLE_LANGS:
+            value = item["title"].get(lang)
+            if not isinstance(value, str) or not value.strip():
+                errors.append(f"'title.{lang}' が空、または文字列ではありません。")
 
     if errors:
         return errors  # 構造自体が崩れている場合は基本チェックのみ返す
