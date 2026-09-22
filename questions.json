@@ -249,5 +249,333 @@
     ],
     "updated_at": "2026-09-21T23:54:42+09:00",
     "premium_id": "001"
+  },
+  {
+    "id": "premium_002_001",
+    "title": {
+      "ja": "朝の洗面台",
+      "en": "Morning Sink",
+      "zh-Hans": "清晨洗手台"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/002/001/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/002/001/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/002/001/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1012,
+        "y0": 561,
+        "x1": 1299,
+        "y1": 785
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "002"
+  },
+  {
+    "id": "premium_002_002",
+    "title": {
+      "ja": "書斎の午後",
+      "en": "Study Afternoon",
+      "zh-Hans": "书房午后"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/002/002/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/002/002/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/002/002/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1057,
+        "y0": 398,
+        "x1": 1319,
+        "y1": 743
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "002"
+  },
+  {
+    "id": "premium_002_003",
+    "title": {
+      "ja": "焼きたてパン",
+      "en": "Fresh from the Oven",
+      "zh-Hans": "刚出炉的面包"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/002/003/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/002/003/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/002/003/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 680,
+        "y0": 164,
+        "x1": 979,
+        "y1": 417
+      },
+      {
+        "x0": 938,
+        "y0": 626,
+        "x1": 1239,
+        "y1": 949
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "002"
+  },
+  {
+    "id": "premium_002_004",
+    "title": {
+      "ja": "ベランダ菜園",
+      "en": "Balcony Garden",
+      "zh-Hans": "阳台小花园"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/002/004/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/002/004/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/002/004/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 744,
+        "y0": 409,
+        "x1": 1071,
+        "y1": 671
+      },
+      {
+        "x0": 123,
+        "y0": 592,
+        "x1": 434,
+        "y1": 839
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "002"
+  },
+  {
+    "id": "premium_002_005",
+    "title": {
+      "ja": "ちゃぶ台のおやつ",
+      "en": "Teatime at Home",
+      "zh-Hans": "矮桌下午茶"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/002/005/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/002/005/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/002/005/ans.jpg",
+    "difficulty": 3,
+    "change_points_number": 3,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 662,
+        "y0": 358,
+        "x1": 1019,
+        "y1": 601
+      },
+      {
+        "x0": 326,
+        "y0": 486,
+        "x1": 578,
+        "y1": 765
+      },
+      {
+        "x0": 49,
+        "y0": 773,
+        "x1": 473,
+        "y1": 1021
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "002"
+  },
+  {
+    "id": "premium_003_001",
+    "title": {
+      "ja": "花屋の軒先",
+      "en": "Flower Stand",
+      "zh-Hans": "花店门口"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/003/001/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/003/001/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/003/001/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 534,
+        "y0": 670,
+        "x1": 834,
+        "y1": 961
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "003"
+  },
+  {
+    "id": "premium_003_002",
+    "title": {
+      "ja": "雑貨屋さんの棚",
+      "en": "Little Shop Shelf",
+      "zh-Hans": "杂货店货架"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/003/002/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/003/002/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/003/002/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 792,
+        "y0": 849,
+        "x1": 1112,
+        "y1": 1099
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "003"
+  },
+  {
+    "id": "premium_003_003",
+    "title": {
+      "ja": "今日のお弁当",
+      "en": "Today's Bento",
+      "zh-Hans": "今日便当"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/003/003/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/003/003/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/003/003/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 184,
+        "y0": 376,
+        "x1": 447,
+        "y1": 638
+      },
+      {
+        "x0": 821,
+        "y0": 745,
+        "x1": 1055,
+        "y1": 971
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "003"
+  },
+  {
+    "id": "premium_003_004",
+    "title": {
+      "ja": "工具のかべ",
+      "en": "Tool Wall",
+      "zh-Hans": "工具墙"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/003/004/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/003/004/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/003/004/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 420,
+        "y0": 134,
+        "x1": 575,
+        "y1": 651
+      },
+      {
+        "x0": 1012,
+        "y0": 778,
+        "x1": 1293,
+        "y1": 1077
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "003"
+  },
+  {
+    "id": "premium_003_005",
+    "title": {
+      "ja": "芝生でピクニック",
+      "en": "Picnic on the Grass",
+      "zh-Hans": "草地野餐"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/003/005/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/003/005/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/003/005/ans.jpg",
+    "difficulty": 3,
+    "change_points_number": 3,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1028,
+        "y0": 598,
+        "x1": 1268,
+        "y1": 832
+      },
+      {
+        "x0": 708,
+        "y0": 723,
+        "x1": 939,
+        "y1": 977
+      },
+      {
+        "x0": 498,
+        "y0": 956,
+        "x1": 861,
+        "y1": 1212
+      }
+    ],
+    "updated_at": "2026-09-22T19:04:22+09:00",
+    "premium_id": "003"
   }
 ]
