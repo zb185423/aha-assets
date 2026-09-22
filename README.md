@@ -72,7 +72,7 @@
 [
   {
     "id": "free_001",
-    "title": "",
+    "title": {"ja": "", "en": "", "zh-Hans": ""},
     "base_url": "https://zb185423.github.io/aha-assets/assets/free/001/bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/free/001/aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/free/001/ans.jpg",
@@ -95,7 +95,7 @@
   },
   {
     "id": "premium_001_001",
-    "title": "",
+    "title": {"ja": "", "en": "", "zh-Hans": ""},
     "base_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/q001_bef.jpg",
     "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/q001_aft.jpg",
     "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/001/001/q001_ans.jpg",
@@ -124,7 +124,7 @@
 
 - id (String): 問題を一意に識別するためのID。階層構造のディレクトリ名をアンダースコアで連結して生成（例: free_001, premium_001_001）。
 
-- title (String): 問題のタイトル（任意の表示用文字列）。
+- title (Object): 一覧画面に出す問題のタイトル。言語コードをキーにした文字列（ja / en / zh-Hans）。例: `{"ja": "気球びより", "en": "Balloon Weather", "zh-Hans": "热气球的天空"}`
 
 - base_url (String): 変更前の画像（bef）の配信URL。
 
