@@ -577,5 +577,333 @@
     ],
     "updated_at": "2026-09-22T19:04:22+09:00",
     "premium_id": "003"
+  },
+  {
+    "id": "premium_004_001",
+    "title": {
+      "ja": "水彩の時間",
+      "en": "Watercolor Time",
+      "zh-Hans": "水彩时光"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/004/001/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/004/001/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/004/001/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 4,
+        "y0": 486,
+        "x1": 293,
+        "y1": 777
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "004"
+  },
+  {
+    "id": "premium_004_002",
+    "title": {
+      "ja": "冷蔵庫のなか",
+      "en": "Inside the Fridge",
+      "zh-Hans": "冰箱里"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/004/002/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/004/002/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/004/002/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 854,
+        "y0": 721,
+        "x1": 1047,
+        "y1": 1107
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "004"
+  },
+  {
+    "id": "premium_004_003",
+    "title": {
+      "ja": "駄菓子屋さん",
+      "en": "Candy Shop",
+      "zh-Hans": "零食小铺"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/004/003/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/004/003/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/004/003/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 587,
+        "y0": 587,
+        "x1": 1003,
+        "y1": 929
+      },
+      {
+        "x0": 0,
+        "y0": 761,
+        "x1": 375,
+        "y1": 1143
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "004"
+  },
+  {
+    "id": "premium_004_004",
+    "title": {
+      "ja": "朝のドレッサー",
+      "en": "Morning Vanity",
+      "zh-Hans": "清晨梳妆台"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/004/004/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/004/004/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/004/004/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 388,
+        "y0": 301,
+        "x1": 531,
+        "y1": 723
+      },
+      {
+        "x0": 766,
+        "y0": 669,
+        "x1": 960,
+        "y1": 1033
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "004"
+  },
+  {
+    "id": "premium_004_005",
+    "title": {
+      "ja": "森のキャンプ",
+      "en": "Forest Camp",
+      "zh-Hans": "森林露营"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/004/005/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/004/005/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/004/005/ans.jpg",
+    "difficulty": 3,
+    "change_points_number": 3,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 557,
+        "y0": 334,
+        "x1": 789,
+        "y1": 542
+      },
+      {
+        "x0": 0,
+        "y0": 658,
+        "x1": 431,
+        "y1": 896
+      },
+      {
+        "x0": 722,
+        "y0": 842,
+        "x1": 949,
+        "y1": 1061
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "004"
+  },
+  {
+    "id": "premium_005_001",
+    "title": {
+      "ja": "楽器のかべ",
+      "en": "Music Wall",
+      "zh-Hans": "乐器墙"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/005/001/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/005/001/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/005/001/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1101,
+        "y0": 855,
+        "x1": 1319,
+        "y1": 1215
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "005"
+  },
+  {
+    "id": "premium_005_002",
+    "title": {
+      "ja": "スパイス棚",
+      "en": "Spice Rack",
+      "zh-Hans": "香料架"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/005/002/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/005/002/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/005/002/ans.jpg",
+    "difficulty": 1,
+    "change_points_number": 1,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 265,
+        "y0": 812,
+        "x1": 565,
+        "y1": 1191
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "005"
+  },
+  {
+    "id": "premium_005_003",
+    "title": {
+      "ja": "夏祭りの夜店",
+      "en": "Summer Festival",
+      "zh-Hans": "夏日祭典"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/005/003/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/005/003/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/005/003/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 82,
+        "y0": 459,
+        "x1": 519,
+        "y1": 823
+      },
+      {
+        "x0": 34,
+        "y0": 1004,
+        "x1": 317,
+        "y1": 1205
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "005"
+  },
+  {
+    "id": "premium_005_004",
+    "title": {
+      "ja": "晴れの日の洗濯",
+      "en": "Sunny Laundry Day",
+      "zh-Hans": "晴天晾衣"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/005/004/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/005/004/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/005/004/ans.jpg",
+    "difficulty": 2,
+    "change_points_number": 2,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 1086,
+        "y0": 100,
+        "x1": 1319,
+        "y1": 500
+      },
+      {
+        "x0": 1134,
+        "y0": 833,
+        "x1": 1295,
+        "y1": 1159
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "005"
+  },
+  {
+    "id": "premium_005_005",
+    "title": {
+      "ja": "お誕生日会",
+      "en": "Birthday Party",
+      "zh-Hans": "生日派对"
+    },
+    "base_url": "https://zb185423.github.io/aha-assets/assets/premium/005/005/bef.jpg",
+    "changed_url": "https://zb185423.github.io/aha-assets/assets/premium/005/005/aft.jpg",
+    "answer_url": "https://zb185423.github.io/aha-assets/assets/premium/005/005/ans.jpg",
+    "difficulty": 3,
+    "change_points_number": 3,
+    "is_premium": true,
+    "size": [
+      1320,
+      1320
+    ],
+    "regions": [
+      {
+        "x0": 34,
+        "y0": 10,
+        "x1": 495,
+        "y1": 425
+      },
+      {
+        "x0": 1088,
+        "y0": 532,
+        "x1": 1319,
+        "y1": 866
+      },
+      {
+        "x0": 16,
+        "y0": 656,
+        "x1": 369,
+        "y1": 1125
+      }
+    ],
+    "updated_at": "2026-09-26T21:37:12+09:00",
+    "premium_id": "005"
   }
 ]
